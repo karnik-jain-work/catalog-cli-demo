@@ -1,0 +1,16 @@
+#%Catalog Descriptor 1.0
+projects:
+  - main: sample-api.yaml
+    assetId: sample-products-api
+    version: 1.0.1
+    apiVersion: v1
+    tags :
+      - product
+      - company
+      - brand
+      - sys-api
+    contact:
+      name: 'Karnik Jain'
+      email: 'karnik.jain@salesforce.com'
+    documentation:
+      Home: home.md
